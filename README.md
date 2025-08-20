@@ -16,7 +16,7 @@ Aspiring Software Developer with a strong foundation in Information Technology, 
 - *Secondary School Certificate (SSC)* (2020) | Percentage: 89.20%  
   Sarvajanik Vidyalaya Asoda  
 
----
+--- 
 
 ## 🌟 Internships  
 - *Arise Vishwa Society NGO* (Dec 2024 - Feb 2025)  
