@@ -17,7 +17,7 @@ Aspiring Software Developer with a strong foundation in Information Technology, 
   Sarvajanik Vidyalaya Asoda  
 
 --- 
-
+  
 ## 🌟 Internships  
 - *Arise Vishwa Society NGO* (Dec 2024 - Feb 2025)  
   - Worked as a Project Intern, contributing to the development of an educational app designed to support students' overall growth by providing essential learning tools.  
