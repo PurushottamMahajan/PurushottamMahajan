@@ -8,7 +8,7 @@ Aspiring Software Developer with a strong foundation in Information Technology, 
  
 ---  
     
-## 🎓 Education    
+## 🎓 Education      
 - *BE in Artificial Intelligence and Data Science* (2023 - Present) | GPA: 8.87  
   Dr. D. Y. Patil Institute of Technology  
 - *Diploma in Information Technology* (2020 - 2023) | Percentage: 87.75  
