@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Software Developer | Java & C++ Enthusiast | Problem Solver</h3>  
     
 ---        
-      
+        
 ## 🎯 Career Objective  
 Aspiring Software Developer with a strong foundation in Information Technology, proficient in Java, C++, and SQL. Skilled in Data Structures and Algorithms (DSA), Object-Oriented Programming (OOP), and Web Development, with hands-on experience in building scalable and efficient applications. Passionate about developing innovative, user-friendly solutions and optimizing software performance.
  
