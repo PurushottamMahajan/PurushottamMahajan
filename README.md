@@ -36,7 +36,7 @@ Aspiring Software Developer with a strong foundation in Information Technology, 
   - The system captures images of students in a classroom and accurately marks attendance, achieving an average accuracy of 67.75%.  
 
 - *FoodXpress* (Feb 2024 - April 2024)  
-  - Developed an Android app for students to pre-order and pre-pay for meals.  
+  - Developed an Android app for students to pre-order and pre-pay for meals.   
   - Reduced wait times and improved efficiency with online payments.  
 
 - *AgroCulture* (Feb 2024 - April 2024)  
