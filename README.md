@@ -14,7 +14,7 @@ Aspiring Software Developer with a strong foundation in Information Technology, 
 - *Diploma in Information Technology* (2020 - 2023) | Percentage: 87.75  
   Government Polytechnic Jalgaon  
 - *Secondary School Certificate (SSC)* (2020) | Percentage: 89.20%   
-  Sarvajanik Vidyalaya Asoda  
+  Sarvajanik Vidyalaya Asoda              
 
 ---   
   
