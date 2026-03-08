@@ -19,7 +19,7 @@ Aspiring Software Developer with a strong foundation in Information Technology, 
 ---       
   
 ## 🌟 Internships  
-- *Arise Vishwa Society NGO* (Dec 2024 - Feb 2025)  
+- *Arise Vishwa Society NGO* (Dec 2024 - Feb 2025)    
   - Worked as a Project Intern, contributing to the development of an educational app designed to support students' overall growth by providing essential learning tools.  
   - Focused on the financial component, developing a budget management simulation to help students learn effective money management and financial decision-making.  
   - Gained experience in app development and financial modeling, enhancing problem-solving and technical skills.  
